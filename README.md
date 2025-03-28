@@ -58,4 +58,3 @@ This project is **MIT licensed** – feel free to use and modify it.
 ---
 
 🔹 **Give it a ⭐ on GitHub if you like it!**
-```
